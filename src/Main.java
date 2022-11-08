@@ -59,5 +59,6 @@ System.out.println("всего работников в компании " + allW
 allWorkers = allWorkers + 94;
 System.out.println(allWorkers);
 System.out.println("если в компании работает " + allWorkers + " человека, то всего " + (allWorkers * workerHour) + " часа работы может быть поделено между сотрудниками");
+
     }
 }
